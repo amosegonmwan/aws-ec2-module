@@ -1,6 +1,6 @@
 ﻿# Terraform EC2 Module Deployment
 
-This repository contains Terraform configurations to deploy EC2 instances in both the US West and US East regions using a reusable module.
+This repository contains Terraform configurations to deploy EC2 instances in both two AWS regions; US West and US East regions using a reusable module.
 
 ## Project Structure
 
