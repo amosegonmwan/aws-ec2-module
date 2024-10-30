@@ -26,8 +26,11 @@ This repository contains Terraform configurations to deploy EC2 instances in bot
 - **ec2-module/**: A module directory containing the files needed to deploy EC2 instances:
   
   - **data.tf**: Fetches the latest Ubuntu AMI.
+    
   - **ec2.tf**: Contains the resource definition for the EC2 instance.
+    
   - **provider.tf**: Defines the provider settings for the module.
+    
   - **variables.tf**: Defines the variables used within the module.
 
 ## Requirements
