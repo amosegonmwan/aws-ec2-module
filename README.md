@@ -4,6 +4,7 @@ This repository contains Terraform configurations to deploy EC2 instances in bot
 
 ## Project Structure
 
+```
 .
 ├── main.tf
 ├── provider.tf
@@ -13,7 +14,7 @@ This repository contains Terraform configurations to deploy EC2 instances in bot
     ├── ec2.tf
     └── provider.tf
     └── variables.tf
-
+```
 
 ## Overview
 
